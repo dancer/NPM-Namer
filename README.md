@@ -1,7 +1,7 @@
 
 # Check NPM Names
 
-![npm-check-logo](https://img.shields.io/npm/v/npm-name) ![license](https://img.shields.io/github/license/dancer/check-npm-names)
+![npm-check-logo](https://img.shields.io/npm/v/npm-name) ![license](https://img.shields.io/github/license/dancer/NPM-Namer)
 
 A simple command-line tool to check if package names are available on [npmjs.com](https://npmjs.com). It reads names from a file and outputs the available names into a separate file.
 
