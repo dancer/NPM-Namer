@@ -14,10 +14,10 @@ A simple command-line tool to check if package names are available on [npmjs.com
 ## Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```bash
    git clone https://github.com/<username>/check-npm-names.git
    cd check-npm-names
-   \`\`\`
+   ```
 
 2. Install the dependencies:
    ```bash
@@ -27,16 +27,16 @@ A simple command-line tool to check if package names are available on [npmjs.com
 ## Usage
 
 1. Create a text file (`package-names.txt`) and list the package names you want to check, one name per line:
-   \`\`\`
+   ```
    package-name-1
    package-name-2
    package-name-3
-   \`\`\`
+   ```
 
 2. Run the script:
-   \`\`\`bash
+   ```bash
    node check-npm-names.js
-   \`\`\`
+   ```
 
 3. The script will generate a file named `available-names.txt` with all the available names.
 
@@ -49,7 +49,7 @@ Checking 3 names from package-names.txt...
   package-name-2: Not Available
   package-name-3: Available
 2 available names saved to available-names.txt
-\`\`\`
+```
 
 ## Customization
 
