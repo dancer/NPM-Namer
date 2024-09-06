@@ -42,7 +42,7 @@ A simple command-line tool to check if package names are available on [npmjs.com
 
 ## Example
 
-\`\`\`bash
+```bash
 Checking 3 names from package-names.txt...
   ███████████████████ 100% | 3/3
   package-name-1: Available
