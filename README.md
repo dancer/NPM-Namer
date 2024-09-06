@@ -15,7 +15,7 @@ A simple command-line tool to check if package names are available on [npmjs.com
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/check-npm-names.git
+   git clone https://github.com/dancer/NPM-Namer.git
    cd check-npm-names
    ```
 
