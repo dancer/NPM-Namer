@@ -20,9 +20,9 @@ A simple command-line tool to check if package names are available on [npmjs.com
    \`\`\`
 
 2. Install the dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 ## Usage
 
